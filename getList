@@ -17,7 +17,7 @@
     "language": "English",
     "author": "Aretha",
     "id": "3",
-    "title": "Sunny hunny",
+    "title": "Sunny Hunny",
     "body": "Imperdiet proin fermentum leo vel orci porta non pulvinar. Integer eget aliquet nibh praesent. Mattis molestie a iaculis at erat pellentesque adipiscing commodo elit. Arcu non sodales neque sodales ut etiam sit amet."
   },
   {
@@ -36,23 +36,20 @@
   },
   {
     "language": "English",
-    "type": "Daria",
-    "id": "6",
     "author": "Hugs McGee",
+    "id": "6",
     "body": "Mattis molestie a iaculis at. Nulla pellentesque dignissim enim sit amet venenatis urna cursus. Imperdiet proin fermentum leo vel orci porta. Dictumst quisque sagittis purus sit amet volutpat consequat. Congue nisi vitae suscipit tellus mauris."
   },
   {
     "language": "English",
-    "type": "Ermintrude",
-    "id": "7",
     "author": "Honey Bee",
+    "id": "7",
     "body": "Nec ultrices dui sapien eget mi proin sed libero. Proin fermentum leo vel orci. Fringilla phasellus faucibus scelerisque eleifend. Eget felis eget nunc lobortis mattis aliquam faucibus. Id cursus metus aliquam eleifend. Ut ornare lectus sit amet."
   },
   {
     "language": "English",
-    "type": "Guinevere",
+    "author": "Guinevere",
     "id": "8",
-    "author": "Love bug",
     "body": "Quis ipsum suspendisse ultrices gravida. Lobortis elementum nibh tellus molestie nunc non blandit. Euismod quis viverra nibh cras pulvinar mattis nunc. In egestas erat imperdiet sed euismod nisi porta lorem mollis."
   },
   {
@@ -80,14 +77,14 @@
     "language": "English",
     "author": "Martha",
     "id": "12",
-    "title": "Paragraph",
+    "title": "Sweet",
     "body": "Tristique senectus et netus et malesuada fames ac. Volutpat maecenas volutpat blandit aliquam. Habitant morbi tristique senectus et netus et malesuada. Euismod nisi porta lorem mollis aliquam ut."
   },
   {
     "language": "English",
     "author": "Neala",
     "id": "13",
-    "title": "Paragraph",
+    "title": "My Lover",
     "body": "Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac. Neque convallis a cras semper auctor neque vitae tempus. Nibh tellus molestie nunc non. Pharetra massa massa ultricies mi quis hendrerit dolor."
   },
   {
